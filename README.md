@@ -1,22 +1,25 @@
-# 🚀 Projeto 1  
-## Pipeline de Exploração de Dados e Operações SQL com Spark SQL
+# 🚀 Project 1  
+## Data Exploration Pipelines and SQL Operations with Spark SQL
 
-Este é o **primeiro projeto do curso** e apresenta **5 pipelines completos de exploração de dados**
-utilizando **Spark SQL** em um **ambiente distribuído**.
+This project is part of a hands-on data engineering portfolio and presents **five complete data exploration pipelines** built using **Apache Spark SQL** in a **distributed cluster environment**.
 
-Os pipelines demonstram, na prática, como aplicar técnicas essenciais de **engenharia e análise de dados**, incluindo:
+The pipelines demonstrate practical and essential **data engineering tasks**, including:
 
-- Agregações e análises estatísticas com SQL
-- Criação de gráficos a partir de dados processados
-- Análise de plano de execução de queries
-- Limpeza e preparação de dados
-- Engenharia de atributos (feature engineering)
+- Data aggregation and analytical queries using SQL
+- Query execution plan analysis and performance awareness
+- Data cleansing and preparation
+- Feature engineering for analytical use cases
+- Generation of insights from structured datasets
 
-Todas as operações são realizadas com **linguagem SQL**, executadas em um **cluster Spark**,
-explorando o poder do **processamento distribuído** para análise de grandes volumes de dados.
+All transformations and analyses are implemented using **SQL executed on Spark**, leveraging **distributed processing** to handle large-scale datasets efficiently.
 
-![Spark](https://img.shields.io/badge/Apache%20Spark-SQL-orange)
-![Status](https://img.shields.io/badge/Projeto-Concluído-success)
+This project showcases skills commonly required for **Data Engineer roles**, such as working with scalable data pipelines, optimizing SQL-based transformations, and operating in distributed data processing environments.
+
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-SQL-orange)
+![Data Engineering](https://img.shields.io/badge/Role-Data%20Engineer-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 
 
