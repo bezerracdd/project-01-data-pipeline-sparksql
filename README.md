@@ -17,7 +17,10 @@ This project showcases skills commonly required for **Data Engineer roles**, suc
 
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-SQL-orange)
-![Data Engineering](https://img.shields.io/badge/Role-Data%20Engineer-blue)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![SQL](https://img.shields.io/badge/SQL-Spark%20SQL-lightgrey)
+![Role](https://img.shields.io/badge/Role-Data%20Engineer-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 
