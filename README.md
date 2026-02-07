@@ -1,9 +1,22 @@
-# Projeto 1
-# Pipeline de Exploração de Dados e Operações SQL com Spark SQL
+# 🚀 Projeto 1  
+## Pipeline de Exploração de Dados e Operações SQL com Spark SQL
 
-# O primeiro Projeto do curso traz para voce 5 pipelines completos de exploracao de dados
-usando SparkSQL. Os pipelines mostram na pratica tarefas de agregaçao de dados, criaçao de
-graficos, plano de execucao de queries, limpeza de dados e engenharia de atributos, tudo isso
-om Linguagem SQL executada em um cluster de computadores atraves do SparkSQL.
+Este é o **primeiro projeto do curso** e apresenta **5 pipelines completos de exploração de dados**
+utilizando **Spark SQL** em um **ambiente distribuído**.
+
+Os pipelines demonstram, na prática, como aplicar técnicas essenciais de **engenharia e análise de dados**, incluindo:
+
+- Agregações e análises estatísticas com SQL
+- Criação de gráficos a partir de dados processados
+- Análise de plano de execução de queries
+- Limpeza e preparação de dados
+- Engenharia de atributos (feature engineering)
+
+Todas as operações são realizadas com **linguagem SQL**, executadas em um **cluster Spark**,
+explorando o poder do **processamento distribuído** para análise de grandes volumes de dados.
+
+![Spark](https://img.shields.io/badge/Apache%20Spark-SQL-orange)
+![Status](https://img.shields.io/badge/Projeto-Concluído-success)
+
 
 
